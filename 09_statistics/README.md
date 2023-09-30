@@ -295,7 +295,7 @@ R2スコアは以下のとおりです．
 データは次のURLからダウンロードしてください．  
 [>> `fruits.csv`](https://raw.githubusercontent.com/YosukeSugiura/Introduction_to_Programming/main/09_statistics/fruits.csv)
 
-### 練習問題２：多項式回帰の次数と過学習
+### 練習問題 16：多項式回帰の次数と過学習
 
 コード [`09_polynomial_regression.py`](09_polynomial_regression.py)の多項式次数(degree)を増加させたときに，
 R2スコアがどう変化するか，そして2023年，2030年の収穫量の予測結果がどう変化するかを確認せよ．
