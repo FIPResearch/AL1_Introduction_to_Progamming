@@ -287,7 +287,7 @@ R2スコアは以下のとおりです．
 
 ---
 ## 練習問題
-### 練習問題１：線形回帰と多項式回帰
+### 練習問題 15：線形回帰と多項式回帰
 
 コード [`09_linear_regression.py`](09_linear_regression.py) を実行し，線形回帰を適用したときのみかん収穫量の予測結果を確認せよ．
 またコード [`09_polynomial_regression.py`](09_polynomial_regression.py)を実行し，多項式回帰を適用したときのみかん収穫量の予測結果を確認せよ．
@@ -302,7 +302,7 @@ R2スコアがどう変化するか，そして2023年，2030年の収穫量の�
 
 ---
 ## 演習課題
-### 演習課題１：様々な回帰モデル
+### 演習課題 6：様々な回帰モデル
 
 コード [`09_polynomial_regression2.py`](09_polynomial_regression2.py)を見てみましょう．
 このコードは1946年～2020年の消費者物価指数のデータ([`bukka.csv`](https://raw.githubusercontent.com/YosukeSugiura/Introduction_to_Programming/main/09_statistics/bukka.csv))に対して多項式回帰を適用したものです．下に，年次ごとに消費者物価指数をプロットしたものを示します．
