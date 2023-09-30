@@ -129,7 +129,7 @@ extact_values = input_data[3:11,0:6]
 
 ---
 ## 練習問題
-### 練習問題１： ファイルの読み込み
+### 練習問題 9： ファイルの読み込み
 
 コード [`06_read_write_csv.py`](06_read_write_csv.py) を実行しましょう．
 
@@ -148,13 +148,13 @@ drive.mount('/content/drive')
 
 実行すると，データの中身を見ることができます．
 
-### 練習問題２： 列の取り出し
+### 練習問題 10： 列の取り出し
 
 コード [`06_read_write_csv.py`](06_read_write_csv.py) を修正して，[`iris.csv`](https://raw.githubusercontent.com/YosukeSugiura/Introduction_to_Programming/main/06_read_write/iris.csv)) の「variety」に対応する列の値のみを表示させましょう．どのような種があるでしょうか？
 
 ---
 ## 演習課題
-### 演習課題１： 特定の文字列に一致する行の取り出し
+### 演習課題 4： 特定の文字列に一致する行の取り出し
 
 コード [`06_read_write_2Darray.py`](06_read_write_2Darray.py) は「variety」に対応する列以外の列の値を全て取り出し，新たな配列 `output_data` に入れています．実行して確認しましょう．
 
