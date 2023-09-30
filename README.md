@@ -4,10 +4,10 @@
 
 ### シラバス情報
 - 第3ターム開講  
- [AL1（プログラミング入門）: XZ650011](https://risyu.saitama-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2022&lct_cd=XZ650011&je_cd=1)
+ [AL1（プログラミング入門）: XZ650011](https://risyu.saitama-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=XZ650011&je_cd=1)
 
 - 第4ターム開講  
-[AL1（プログラミング入門）: XZ650012](https://risyu.saitama-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2022&lct_cd=XZ650012&je_cd=1)
+[AL1（プログラミング入門）: XZ650012](https://risyu.saitama-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=XZ650012&je_cd=1)
 
 ### 本講義の目的
 
