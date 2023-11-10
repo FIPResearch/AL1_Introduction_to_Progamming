@@ -243,4 +243,4 @@ plt.ylabel('SCORE') # y軸のラベル
 それぞれのクラスでの点数の特徴を説明してみましょう．
 
 ---
-[< 前へ](../07_module) | [トップに戻る](https://github.com/FIPResearch/Introduction_to_Programming) | [次へ >](../09_statistics) 
+[< 前へ](../07_module) | [トップに戻る](https://github.com/FIPResearch/AL1_Introduction_to_Programming) | [次へ >](../09_statistics) 
