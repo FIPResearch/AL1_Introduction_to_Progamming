@@ -117,4 +117,4 @@ None = 3		# None はPythonがすでに用意している名前のため使えな
 [>> `ex1.py`](ex1.py)
 
 --- 
-[トップに戻る](https://github.com/YosukeSugiura/Introduction_to_Programming) | [次へ >](../02_Environment) 
+[トップに戻る](https://github.com/FIPResearch/AL1_Introduction_to_Programming) | [次へ >](../02_Environment) 
