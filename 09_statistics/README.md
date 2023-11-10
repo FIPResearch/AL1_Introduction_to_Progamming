@@ -298,7 +298,7 @@ R2スコアは以下のとおりです．
 またコード [`09_polynomial_regression.py`](09_polynomial_regression.py)を実行し，多項式回帰を適用したときのみかん収穫量の予測結果を確認せよ．
 
 データは次のURLからダウンロードしてください．  
-[>> `fruits.csv`](https://raw.githubusercontent.com/YosukeSugiura/Introduction_to_Programming/main/09_statistics/fruits.csv)
+[>> `fruits.csv`](https://raw.githubusercontent.com/FIPResearch/Introduction_to_Programming/main/09_statistics/fruits.csv)
 
 ### 練習問題 17：多項式回帰の次数と過学習
 
@@ -310,12 +310,12 @@ R2スコアがどう変化するか，そして2023年，2030年の収穫量の�
 ### 演習課題 6：様々な回帰モデル
 
 コード [`09_polynomial_regression2.py`](09_polynomial_regression2.py)を見てみましょう．
-このコードは1946年～2020年の消費者物価指数のデータ([`bukka.csv`](https://raw.githubusercontent.com/YosukeSugiura/Introduction_to_Programming/main/09_statistics/bukka.csv))に対して多項式回帰を適用したものです．下に，年次ごとに消費者物価指数をプロットしたものを示します．
+このコードは1946年～2020年の消費者物価指数のデータ([`bukka.csv`](https://raw.githubusercontent.com/FIPResearch/Introduction_to_Programming/main/09_statistics/bukka.csv))に対して多項式回帰を適用したものです．下に，年次ごとに消費者物価指数をプロットしたものを示します．
 
 ![消費者物価指数のグラフ](bukka.png)
 
 データは次のURLからダウンロードしてください．  
-[>> `bukka.csv`](https://raw.githubusercontent.com/YosukeSugiura/Introduction_to_Programming/main/09_statistics/bukka.csv)  
+[>> `bukka.csv`](https://raw.githubusercontent.com/FIPResearch/Introduction_to_Programming/main/09_statistics/bukka.csv)  
 このデータには，0列目に年次が，1列目に消費者物価指数が入っています．
 
 コードを修正し，多項式次数(degree)を変更したり，様々なモデルを利用して回帰を行ってみましょう．
@@ -327,8 +327,8 @@ R2スコアや2023年，2030年の予測消費者物価指数はどのように�
 - リッジ回帰 (`sklearn.linear_model.Ridge()`)
 - ラッソ回帰 (`sklearn.linear_model.Lasso()`)
 
-> [`bukka.csv`](https://raw.githubusercontent.com/YosukeSugiura/Introduction_to_Programming/main/09_statistics/bukka.csv)は「[持家の帰属家賃を除く総合指数（1947年～最新年）](https://www.e-stat.go.jp/stat-search/files?tclass=000001138366)」（総務省）を加工して作成
+> [`bukka.csv`](https://raw.githubusercontent.com/FIPResearch/Introduction_to_Programming/main/09_statistics/bukka.csv)は「[持家の帰属家賃を除く総合指数（1947年～最新年）](https://www.e-stat.go.jp/stat-search/files?tclass=000001138366)」（総務省）を加工して作成
 
 
 ---
-[< 前へ](../08_prob_plot) | [トップに戻る](https://github.com/YosukeSugiura/Introduction_to_Programming) | 
+[< 前へ](../08_prob_plot) | [トップに戻る](https://github.com/FIPResearch/Introduction_to_Programming) | 
