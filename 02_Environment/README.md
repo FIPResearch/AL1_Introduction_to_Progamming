@@ -1,4 +1,4 @@
-# 2. Pythonの開発環境・Colaboratoryの使い方
+# 2. Pythonの開発環境・Google Colaboratoryの使い方
 
 ここではPythonの開発環境について説明します．
 
@@ -143,4 +143,4 @@ Colaboratory には「コード共有機能」があります．
 5. コピーしたリンクを共有相手に送付する．
 
 --- 
-[< 前へ](../01_Introduction_to_Programming) | [トップに戻る](https://github.com/YosukeSugiura/Introduction_to_Programming) | [次へ >](../03_print) 
+[< 前へ](../01_Introduction_to_Programming) | [トップに戻る](https://github.com/FIPResearch/AL1_Introduction_to_Programming) | [次へ >](../03_print) 
