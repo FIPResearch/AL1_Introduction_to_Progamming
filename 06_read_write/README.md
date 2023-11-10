@@ -24,13 +24,13 @@
 
 次のCSVファイルをWebブラウザで開きましょう．
 
-[>> `iris.csv`](https://raw.githubusercontent.com/YosukeSugiura/Introduction_to_Programming/main/06_read_write/iris.csv)
+[>> `iris.csv`](https://raw.githubusercontent.com/FIPResearch/AL1_Introduction_to_Programming/main/06_read_write/iris.csv)
 
 Webブラウザで開いて，`右クリック → 名前をつけて保存` から好きなフォルダに保存しましょう．保存した `iris.csv` をメモ帳等のテキストエディタで眺めてみます．
 
 ![iris.csv](iris.png)
 
-[`iris.csv`](https://raw.githubusercontent.com/YosukeSugiura/Introduction_to_Programming/main/06_read_write/iris.csv) の見方を簡単に説明します．
+[`iris.csv`](https://raw.githubusercontent.com/FIPResearch/AL1_Introduction_to_Programming/main/06_read_write/iris.csv) の見方を簡単に説明します．
 - このファイルにはアヤメに関するデータが入っています．
 - 行の中で `,` がデータの区切りです．１行あたり，5つの要素が並んでいることがわかります．
 - １行目に各列の説明があります．これを「ヘッダー」と呼びます．データによっては１行目に各列の説明がない，つまりヘッダーがないものもあります．
@@ -139,18 +139,18 @@ extact_values = input_data[3:11,0:6]
 from google.colab import drive
 drive.mount('/content/drive')
 ```
-保存した [`iris.csv`](https://raw.githubusercontent.com/YosukeSugiura/Introduction_to_Programming/main/06_read_write/iris.csv) を Colaboratory のワークスペースに置きます．(自身のPCにファイルを保存するにはブラウザの `右クリック → 名前をつけて保存` からできます．)  
+保存した [`iris.csv`](https://raw.githubusercontent.com/FIPResearch/AL1_Introduction_to_Programming/main/06_read_write/iris.csv) を Colaboratory のワークスペースに置きます．(自身のPCにファイルを保存するにはブラウザの `右クリック → 名前をつけて保存` からできます．)  
 その後，コード [`06_read_write_csv.py`](06_read_write_csv.py)をColabに貼り付けて実行します．
 
 ##### Colaboratory のワークスペースへのデータの設置
 1. Colaboratory 画面左の 「フォルダアイコン」 をクリックする．
-2. 出てくるファイルウィンドウに [`iris.csv`](https://raw.githubusercontent.com/YosukeSugiura/Introduction_to_Programming/main/06_read_write/iris.csv)) をドラッグ&ドロップで設置する．
+2. 出てくるファイルウィンドウに [`iris.csv`](https://raw.githubusercontent.com/FIPResearch/AL1_Introduction_to_Programming/main/06_read_write/iris.csv)) をドラッグ&ドロップで設置する．
 
 実行すると，データの中身を見ることができます．
 
 ### 練習問題 10： 列の取り出し
 
-コード [`06_read_write_csv.py`](06_read_write_csv.py) を修正して，[`iris.csv`](https://raw.githubusercontent.com/YosukeSugiura/Introduction_to_Programming/main/06_read_write/iris.csv)) の「variety」に対応する列の値のみを表示させましょう．どのような種があるでしょうか？
+コード [`06_read_write_csv.py`](06_read_write_csv.py) を修正して，[`iris.csv`](https://raw.githubusercontent.com/FIPResearch/AL1_Introduction_to_Programming/main/06_read_write/iris.csv)) の「variety」に対応する列の値のみを表示させましょう．どのような種があるでしょうか？
 
 ---
 ## 演習課題
@@ -164,4 +164,4 @@ drive.mount('/content/drive')
 > ヒント： 繰り返し処理で学んだように， `if` 文を使って「variety」の列の値が `Setosa` の行のみを取り出します．
 
 --- 
-[< 前へ](../05_for) | [トップに戻る](https://github.com/YosukeSugiura/Introduction_to_Programming) | [次へ >](../07_module)
+[< 前へ](../05_for) | [トップに戻る](https://github.com/FIPResearch/AL1_Introduction_to_Programming) | [次へ >](../07_module)
