@@ -181,4 +181,4 @@ A = ['オレンジ', 'りんご', 'バナナ', 'オレンジ', 'ぶどう', 'ぶ
 > ヒント： `if` 文を使って，リスト `A` の要素ごとに 「'オレンジ'と等しいかどうか」を判定して，等しい場合に結果を保存する変数をインクリメントします．
 
 --- 
-[< 前へ](../04_if) | [トップに戻る](https://github.com/YosukeSugiura/Introduction_to_Programming) | [次へ >](../06_read_write) 
+[< 前へ](../04_if) | [トップに戻る](https://github.com/FIPResearch/AL1_Introduction_to_Programming) | [次へ >](../06_read_write) 
