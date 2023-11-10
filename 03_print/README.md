@@ -74,4 +74,4 @@ Pythonでは文字列に対して足し算・掛け算ができます．それ�
 実行した場合，どのような結果が出てくるでしょうか？
 
 --- 
-[< 前へ](../02_Environment) | [トップに戻る](https://github.com/YosukeSugiura/Introduction_to_Programming) | [次へ >](../04_if) 
+[< 前へ](../02_Environment) | [トップに戻る](https://github.com/FIPResearch/AL1_Introduction_to_Programming) | [次へ >](../04_if) 
