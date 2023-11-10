@@ -149,9 +149,9 @@ input_data1 = read_file('input1.csv')
 
 使用するファイルは以下のリンクから開けます．
 
-[>> `icecream.csv`](https://raw.githubusercontent.com/YosukeSugiura/Introduction_to_Programming/main/07_module/icecream.csv)  
-[>> `fruits.csv`](https://raw.githubusercontent.com/YosukeSugiura/Introduction_to_Programming/main/07_module/fruits.csv)  
-[>> `weather.csv`](https://raw.githubusercontent.com/YosukeSugiura/Introduction_to_Programming/main/07_module/weather.csv)
+[>> `icecream.csv`](https://raw.githubusercontent.com/FIPResearch/AL1_Introduction_to_Progamming/main/07_module/icecream.csv)  
+[>> `fruits.csv`](https://raw.githubusercontent.com/FIPResearch/AL1_Introduction_to_Progamming/main/07_module/fruits.csv)  
+[>> `weather.csv`](https://raw.githubusercontent.com/FIPResearch/AL1_Introduction_to_Progamming/main/07_module/weather.csv)
 
 > ヒント：関数 `write_file()` の引数の１つ目は書き出すデータ，引数の２つ目は書き出すファイル名です．
 
@@ -173,4 +173,4 @@ input_data1 = read_file('input1.csv')
 -->
 
 ---
-[< 前へ](../06_read_write) | [トップに戻る](https://github.com/YosukeSugiura/Introduction_to_Programming) | [次へ >](../08_prob_plot)
+[< 前へ](../06_read_write) | [トップに戻る](https://github.com/FIPResearch/AL1_Introduction_to_Progamming/) | [次へ >](../08_prob_plot)
