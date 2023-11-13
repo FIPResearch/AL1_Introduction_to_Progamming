@@ -298,7 +298,7 @@ R2スコアは以下のとおりです．
 またコード [`09_polynomial_regression.py`](09_polynomial_regression.py)を実行し，多項式回帰を適用したときのみかん収穫量の予測結果を確認せよ．
 
 データは次のURLからダウンロードしてください．  
-[>> `fruits.csv`](https://raw.githubusercontent.com/FIPResearch/Introduction_to_Programming/main/09_statistics/fruits.csv)
+[>> `fruits.csv`](https://raw.githubusercontent.com/FIPResearch/AL1_Introduction_to_Programming/main/09_statistics/fruits.csv)
 
 ### 練習問題 17：多項式回帰の次数と過学習
 
