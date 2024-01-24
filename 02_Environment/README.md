@@ -24,7 +24,7 @@ Colaboratoryには様々な機能がありますが，ここでは詳しくは�
 Google Colaboratory  
 https://colab.research.google.com/
 
-[![Open In Colab](https://colab.research.google.com/)](https://colab.research.google.com/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 
 --- 
 
