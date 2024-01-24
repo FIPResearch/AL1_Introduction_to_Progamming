@@ -44,7 +44,7 @@ import japanize_matplotlib # 日本語表示用モジュール
 
 ここからは実際のデータを使って確率の基礎を勉強しましょう．
 
-データ [socre_A.csv](socre_A.csv) と[socre_B.csv](socre_B.csv) を見てください．
+データ [score_A.csv](score_A.csv) と[score_B.csv](score_B.csv) を見てください．
 これはある学校で２つクラスに同じテストを行ったときの点数をまとめたものです．
 ０列目には「学籍番号」が，１列目には「テストの点」が並んでいます．
 それでは先生になりきって，各クラスの点数に表れる特徴を考えてみましょう．
