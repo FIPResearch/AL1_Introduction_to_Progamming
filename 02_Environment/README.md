@@ -28,15 +28,15 @@ https://colab.research.google.com/
 
 --- 
 
-### Colaboratoryを使うための準備
+### Google Colaboratoryを使うための準備
 
 はじめに，Colaboratoryで新しくコードを作成する手順を説明します．
 
-##### Colaboratoryでコードを生成する手順
-1. まずは Colaboratory にアクセスします．その際，Googleへのログインを求められます．Googleアカウントがなければ作成してください．  
+##### Google Colaboratoryでコードを生成する手順
+1. まずは Google Colaboratory にアクセスします．その際，Googleへのログインを求められます．Googleアカウントがなければ作成してください．  
 1. 新しいPythonコードを作成してみましょう．コードの作成方法は以下のいずれかになります．
- 1. Colaboratoryにアクセスした際に出るポップアップウィンドウの「ノートを新規作成する」を押す．
- 1. Colaboratoryの画面にある，``ファイル > ノートブックを新規作成``を押す．
+ 1. Google Colaboratoryにアクセスした際に出るポップアップウィンドウの「ノートを新規作成する」を押す．
+ 1. Google Colaboratoryの画面にある，``ファイル > ノートブックを新規作成``を押す．
 1. 新しいPythonコードとして`Untitled0.ipynb`が生成されます．このコードはGoogle Driveに自動で保存されます．保存先のフォルダはGoogle Drive内の ``マイドライブ > Colab Notebooks ``フォルダです．
 1. ファイル名を任意に変更します．
 
