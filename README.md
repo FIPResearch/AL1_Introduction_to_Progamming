@@ -1,4 +1,5 @@
-# AL1 プログラミング入門/Introduction to Programming
+# AL1 プログラミング入門 / Introduction to Programming
+### version 2023.10
 
 このページは，埼玉大学の講義「AL1 プログラミング入門」で扱う教材です．
 
