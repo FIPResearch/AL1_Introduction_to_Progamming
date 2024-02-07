@@ -1,15 +1,15 @@
 # AL1 プログラミング入門 / Introduction to Programming
-`2023年度（version 2023.10）`
+`2024年度（version 2024.01）`
 
 このページは，埼玉大学の講義「AL1 プログラミング入門」で扱う教材です．
 [WebClass](https://webclass.gks.saitama-u.ac.jp/)のスライドの教材を確認しながら、こちらのGitHub資料を詳しく内容を説明しています。
 
 ### シラバス情報
-- 第3ターム開講  
- [AL1（プログラミング入門）: XZ650011](https://risyu.saitama-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=XZ650011&je_cd=1)
+- 第１ターム開講  
+ [AL1（プログラミング入門）: XZ650011](https://risyu.saitama-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2024&lct_cd=XZ650011&je_cd=1)
 
-- 第4ターム開講  
-[AL1（プログラミング入門）: XZ650012](https://risyu.saitama-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2023&lct_cd=XZ650012&je_cd=1)
+- 第２ターム開講  
+[AL1（プログラミング入門）: XZ650012](https://risyu.saitama-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2024&lct_cd=XZ650012&je_cd=1)
 
 ### 本講義の目的
 
