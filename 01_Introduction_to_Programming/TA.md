@@ -4,5 +4,7 @@
  なお、書き方はその以外でも構いません。ただ、結果は基本同じかと思います。質問がありましたら、担当先生までご連絡ください。
 
 以下のColabコードのアクセスは、TAさんから「アクセスリクエスト」してから、アクセス可の設定します。アクセスリクエストの際に、Colabを使うするGoogleメールで申請してください。
- 
+
+![Access Request for Colab](https://myoctocat.com/assets/images/base-octocat.svg)
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15FCp2Zhy0pxj7y6FnCp4K7zT_363MXIo?usp=sharing)
