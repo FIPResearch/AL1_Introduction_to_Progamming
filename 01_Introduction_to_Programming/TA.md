@@ -1,3 +1,8 @@
-![Static Badge](https://img.shields.io/badge/any_text-you_like-blue)
+## TAの皆様へ（TA以外は以下ファイルアクセス不可）
+ 
+ 全て演習課題の回答はこちらになります。参考してから、学生のアドバイスをしてください。
+ なお、書き方はその以外でも構いません。ただ、結果は基本同じかと思います。質問がありましたら、担当先生までご連絡ください。
 
-https://colab.research.google.com/drive/15FCp2Zhy0pxj7y6FnCp4K7zT_363MXIo?usp=sharing
+以下のColabコードのアクセスは、TAさんから「アクセスリクエスト」してから、アクセス可の設定します。アクセスリクエストの際に、Colabを使うするGoogleメールで申請してください。
+ 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15FCp2Zhy0pxj7y6FnCp4K7zT_363MXIo?usp=sharing)
