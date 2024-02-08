@@ -23,7 +23,7 @@ import japanize_matplotlib # 日本語表示用モジュール
 
 from sklearn.preprocessing import PolynomialFeatures # 回帰分析する入力を定める関数
 from sklearn.linear_model import LinearRegression # 回帰分析する関数
-from sklearn.linear_model import Ridge # 回帰分析する関数
+from sklearn.linear_model import Ridge # リッジ回帰分析する関数
 from sklearn.metrics import r2_score # R2スコア(どれだけモデルがデータにマッチしているか)算出
 
 """
