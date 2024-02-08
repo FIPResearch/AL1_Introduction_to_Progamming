@@ -24,13 +24,13 @@
 
 次のCSVファイルをWebブラウザで開きましょう．
 
-[>> `iris.csv`](https://raw.githubusercontent.com/FIPResearch/AL1_Introduction_to_Programming/main/06_read_write/iris.csv)
+[`iris.csv`](iris.csv)
 
 Webブラウザで開いて，`右クリック → 名前をつけて保存` から好きなフォルダに保存しましょう．保存した `iris.csv` をメモ帳等のテキストエディタで眺めてみます．
 
 ![iris.csv](iris.png)
 
-[`iris.csv`](https://raw.githubusercontent.com/FIPResearch/AL1_Introduction_to_Programming/main/06_read_write/iris.csv) の見方を簡単に説明します．
+[`iris.csv`](iris.csv) の見方を簡単に説明します．
 - このファイルにはアヤメに関するデータが入っています．
 - 行の中で `,` がデータの区切りです．１行あたり，5つの要素が並んでいることがわかります．
 - １行目に各列の説明があります．これを「ヘッダー」と呼びます．データによっては１行目に各列の説明がない，つまりヘッダーがないものもあります．
@@ -145,7 +145,7 @@ drive.mount('/content/drive')
 
 ##### Colaboratory のワークスペースへのデータの設置
 1. Colaboratory 画面左の 「フォルダアイコン」 をクリックする．
-2. 出てくるファイルウィンドウに [`iris.csv`](https://raw.githubusercontent.com/FIPResearch/AL1_Introduction_to_Programming/main/06_read_write/iris.csv)) をドラッグ&ドロップで設置する．
+2. 出てくるファイルウィンドウに [`iris.csv`](iris.csv)) をドラッグ&ドロップで設置する．
 
 実行すると，データの中身を見ることができます．
 
@@ -157,9 +157,9 @@ drive.mount('/content/drive')
 ## 演習課題
 ### 演習課題 4： 特定の文字列に一致する行の取り出し
 
-コード [`06_read_write_2Darray.py`](06_read_write_2Darray.py) は「variety」に対応する列以外の列の値を全て取り出し，新たな配列 `output_data` に入れています．実行して確認しましょう．
+まず、コード [`06_read_write_2Darray.py`](06_read_write_2Darray.py) は「variety」に対応する列以外の列の値を全て取り出し，新たな配列 `output_data` に入れています．実行して、確認しましょう．
 
-このコードを修正し，「variety」が `Setosa` となる行の，がく片の長さと幅をすべて取り出しましょう.
+このコードを修正し，`variety` が `Setosa` となる行の，がく片の長さと幅をすべて取り出しましょう.
 さらに，その取り出したデータを `output.csv` ファイルに保存しましょう．
 
 > ヒント： 繰り返し処理で学んだように， `if` 文を使って「variety」の列の値が `Setosa` の行のみを取り出します．
