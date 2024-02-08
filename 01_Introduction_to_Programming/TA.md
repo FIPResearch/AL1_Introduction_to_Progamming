@@ -7,4 +7,6 @@
 
 <img src='https://github.com/FIPResearch/AL1_Introduction_to_Progamming/blob/v2024/01_Introduction_to_Programming/access.png' width='400'>
 
+このように、自分のGoogleアカウントから「アクセスリクエスト」を押すと、担当先生までメール連絡してください。
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15FCp2Zhy0pxj7y6FnCp4K7zT_363MXIo?usp=sharing)
