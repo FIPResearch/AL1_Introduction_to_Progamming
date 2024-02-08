@@ -5,6 +5,6 @@
 
 以下のColabコードのアクセスは、TAさんから「アクセスリクエスト」してから、アクセス可の設定します。アクセスリクエストの際に、Colabを使うするGoogleメールで申請してください。
 
-![Access Request for Colab](https://github.com/FIPResearch/AL1_Introduction_to_Progamming/blob/v2024/01_Introduction_to_Programming/access.png)
+![Access Request for Colab](https://github.com/FIPResearch/AL1_Introduction_to_Progamming/blob/v2024/01_Introduction_to_Programming/access.png | width=300)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15FCp2Zhy0pxj7y6FnCp4K7zT_363MXIo?usp=sharing)
