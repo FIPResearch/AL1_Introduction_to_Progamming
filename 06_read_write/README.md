@@ -139,7 +139,8 @@ extact_values = input_data[3:11,0:6]
 from google.colab import drive
 drive.mount('/content/drive')
 ```
-保存した [`iris.csv`](https://raw.githubusercontent.com/FIPResearch/AL1_Introduction_to_Programming/main/06_read_write/iris.csv) を Colaboratory のワークスペースに置きます．(自身のPCにファイルを保存するにはブラウザの `右クリック → 名前をつけて保存` からできます．)  
+
+保存した [`iris.csv`](iris.csv) を Colaboratory のワークスペースに置きます．(自身のPCにファイルを保存するにはブラウザの `右クリック → 名前をつけて保存` からできます．)  
 その後，コード [`06_read_write_csv.py`](06_read_write_csv.py)をColabに貼り付けて実行します．
 
 ##### Colaboratory のワークスペースへのデータの設置
