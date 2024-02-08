@@ -1,6 +1,7 @@
 """
-	演習課題： ２次元データの取り扱い
+演習課題 4 : 2次元データの取り扱い
 """
+
 import pandas as pd
 import numpy as np
 
