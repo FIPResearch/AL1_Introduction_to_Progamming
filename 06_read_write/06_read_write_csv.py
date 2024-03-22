@@ -1,5 +1,6 @@
 """
-	練習課題： csvファイルの読み書き
+練習問題 9： ファイルの読み込み
+練習問題 10： 列の取り出し
 """
 import pandas as pd
 import numpy as np
