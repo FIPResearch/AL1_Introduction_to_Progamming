@@ -328,6 +328,13 @@ R2スコアや2023年，2030年の予測消費者物価指数はどのように�
 
 > [`bukka.csv`](bukka.csv)は「[持家の帰属家賃を除く総合指数（1947年～最新年）](https://www.e-stat.go.jp/stat-search/files?tclass=000001138366)」（総務省）を加工して作成
 
+---
+## チャレンジ課題
+### チャレンジ課題 1：リッジ回帰モデル
+
+演習課題 6 の元に**リッジ回帰**を示します．自身で調べてみて，活用してみましょう．
+
+リッジ回帰 (`sklearn.linear_model.Ridge()`)
 
 ---
 [< 前へ](../08_prob_plot) | [トップに戻る](https://github.com/FIPResearch/AL1_Introduction_to_Programming) | 
