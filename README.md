@@ -1,5 +1,5 @@
 # AL1 プログラミング入門 / Introduction to Programming
-`2024年度（version 2024.01）`
+`2024年度（version 2024.02）`
 
 このページは，埼玉大学の講義「AL1 プログラミング入門」で扱う教材です．
 [WebClass](https://webclass.gks.saitama-u.ac.jp/)のスライドの教材を確認しながら、こちらのGitHub資料を詳しく内容を説明しています。
