@@ -1,15 +1,17 @@
-# AL1 プログラミング入門 / Introduction to Programming
+# 【教養・スキル・リテラシー科目】 プログラミング入門 / Introduction to Programming
 `2025年度（version 2025.01）`
 
-このページは，埼玉大学の講義「AL1 プログラミング入門」で扱う教材です．
+このページは，埼玉大学の講義「教養・スキル・リテラシー科目 プログラミング入門」で扱う教材です．
 [WebClass](https://webclass.gks.saitama-u.ac.jp/)のスライドの教材を確認しながら、こちらのGitHub資料を詳しく内容を説明しています。
+
+本授業では、令和７年度から全学部生を対象としたリテラシーレベルの[「数理・データサイエンス・AIリテラシー教育プログラム」](https://www.saitama-u.ac.jp/datascience/)を対象授業として実施しています。
 
 ### シラバス情報
 - 第１ターム開講  
- [AL1（プログラミング入門）: XZ650011](https://risyu.saitama-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2024&lct_cd=XZ650011&je_cd=1)
+ [教養・スキル・リテラシー科目（プログラミング入門）: XZ650011](https://risyu.saitama-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2024&lct_cd=XZ650011&je_cd=1)
 
 - 第２ターム開講  
-[AL1（プログラミング入門）: XZ650012](https://risyu.saitama-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2024&lct_cd=XZ650012&je_cd=1)
+[教養・スキル・リテラシー科目（プログラミング入門）: XZ650012](https://risyu.saitama-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2024&lct_cd=XZ650012&je_cd=1)
 
 ### 本講義の目的
 
@@ -48,8 +50,9 @@ Pythonというプログラミング言語は，そのような簡単なデー�
 1. [Pythonの開発環境](02_Environment/README.md)
 1. [Pythonの基本的な文法(1) : 表示](03_print)
 1. [Pythonの基本的な文法(2) : 条件分岐](04_if)
-1. [Pythonの基本的な文法(3) : 繰り返し](05_for)
-1. [Pythonを使ったファイルの読み書き](06_read_write)
-1. [モジュールと関数](07_module)
-1. [確率とグラフの作成](08_prob_plot)
-1. [統計と回帰分析](09_statistics)
+1. [Pythonの基本的な文法(3) : 繰り返し(for文)](05_for)
+1. [Pythonの基本的な文法(4) : 繰り返し(while文)](06_while)
+1. [Pythonを使ったファイルの読み書き](07_read_write)
+1. [モジュールと関数](08_module)
+1. (実習)[確率とグラフの作成](09_prob_plot)
+1. (実習)[統計と回帰分析](10_statistics)
