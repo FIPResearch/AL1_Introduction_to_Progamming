@@ -1,4 +1,4 @@
-# 【教養・スキル・リテラシー科目】 プログラミング入門 / Introduction to Programming
+# プログラミング入門 / Introduction to Programming
 `2025年度（version 2025.01）`
 
 このページは，埼玉大学の講義「教養・スキル・リテラシー科目 プログラミング入門」で扱う教材です．
