@@ -194,4 +194,4 @@ B = ['りんご', 'オレンジ', 'オレンジ', 'ぶどう', 'りんご', 'ぶ
 なお、それぞれの `'りんご'` と `'ぶどう'` の個数を表示し、 `'りんご'` と `'ぶどう'` の合わせた個数も表示する．
 
 --- 
-[< 前へ](../04_if) | [トップに戻る](https://github.com/FIPResearch/AL1_Introduction_to_Programming) | [次へ >](../06_read_write) 
+[< 前へ](../04_if) | [トップに戻る](https://github.com/FIPResearch/AL1_Introduction_to_Programming) | [次へ >](../06_while) 
