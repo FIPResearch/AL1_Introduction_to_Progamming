@@ -6,12 +6,9 @@
 
 本授業では、令和７年度から全学部生を対象としたリテラシーレベルの[「数理・データサイエンス・AIリテラシー教育プログラム」](https://www.saitama-u.ac.jp/datascience/)を対象授業として実施しています。
 
-### シラバス情報
-- 第１ターム開講  
- [教養・スキル・リテラシー科目（プログラミング入門）: XZ650011](https://risyu.saitama-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2024&lct_cd=XZ650011&je_cd=1)
+- 第１ターム開講 **[教養・スキル・リテラシー科目（プログラミング入門）: 25XZ500161**
 
-- 第２ターム開講  
-[教養・スキル・リテラシー科目（プログラミング入門）: XZ650012](https://risyu.saitama-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2024&lct_cd=XZ650012&je_cd=1)
+- 第２ターム開講 **教養・スキル・リテラシー科目（プログラミング入門）: 25XZ500162**
 
 ### 本講義の目的
 
@@ -54,5 +51,5 @@ Pythonというプログラミング言語は，そのような簡単なデー�
 1. [Pythonの基本的な文法(4) : 繰り返し(while文)](06_while)
 1. [Pythonを使ったファイルの読み書き](07_read_write)
 1. [モジュールと関数](08_module)
-1. (実習)[確率とグラフの作成](09_prob_plot)
-1. (実習)[統計と回帰分析](10_statistics)
+1. (自習)[確率とグラフの作成](09_prob_plot)
+1. (自習)[統計と回帰分析](10_statistics)
