@@ -141,41 +141,41 @@ input_data1 = read_file('input1.csv')
 
 ---
 ## 練習問題
-### 練習問題 11： 関数の定義
+### 練習問題 12： 関数の定義
 
-コード [`07_module_ex1.py`](07_module_ex1.py) を眺めましょう．
+コード [`08_module_ex1.py`](08_module_ex1.py) を眺めましょう．
 ファイルからデータを読み込み，その読み込んだデータを別のファイルに書き込もうとしています．
 関数 `write_file()` を正しく書き直し，データをファイルに書き出す処理を行うようにしてください．
 
 使用するファイルは以下のリンクから開けます．
 
-[>> `icecream.csv`](https://raw.githubusercontent.com/FIPResearch/AL1_Introduction_to_Progamming/main/07_module/icecream.csv)  
-[>> `fruits.csv`](https://raw.githubusercontent.com/FIPResearch/AL1_Introduction_to_Progamming/main/07_module/fruits.csv)  
-[>> `weather.csv`](https://raw.githubusercontent.com/FIPResearch/AL1_Introduction_to_Progamming/main/07_module/weather.csv)
+[>> `icecream.csv`](https://raw.githubusercontent.com/FIPResearch/AL1_Introduction_to_Progamming/main/08_module/icecream.csv)  
+[>> `fruits.csv`](https://raw.githubusercontent.com/FIPResearch/AL1_Introduction_to_Progamming/main/08_module/fruits.csv)  
+[>> `weather.csv`](https://raw.githubusercontent.com/FIPResearch/AL1_Introduction_to_Progamming/main/08_module/weather.csv)
 
 > ヒント：関数 `write_file()` の引数の１つ目は書き出すデータ，引数の２つ目は書き出すファイル名です．
 
 ---
 ## 演習課題
-### 演習課題 5： 関数の定義１
+### 演習課題 6： 関数の定義１
 
-コード [`07_module_def.py`](07_module_def.py) を眺めましょう．第１の処理ではリストの中に指定した果物があるかを検索し，結果を表示します．第２の処理ではリストの中に指定した動物があるかを検索し，結果を表示します．これらの処理には共通する部分がありますよね．共通する処理を関数にしましょう．
+コード [`08_module_def.py`](08_module_def.py) を眺めましょう．第１の処理ではリストの中に指定した果物があるかを検索し，結果を表示します．第２の処理ではリストの中に指定した動物があるかを検索し，結果を表示します．これらの処理には共通する部分がありますよね．共通する処理を関数にしましょう．
 
 > ヒント：関数を定義するとき，`検索するリスト`と`検索ワード`の２つを引数に設定しましょう．
 
 ---
 ## チャレンジ課題
-### チャレンジ課題 2： 関数の定義２
+### チャレンジ課題 3： 関数の定義２
 
-コード [`07_module_def2.py`](07_module_def2.py) を眺めましょう．第１の処理ではリストの中に指定した果物があるかを検索し，結果を表示します．第２の処理ではリストの中に指定した動物があるかを検索し，結果を表示します．これらの処理には共通する部分がありますよね．共通する処理を関数にしましょう．
+コード [`08_module_def2.py`](08_module_def2.py) を眺めましょう．第１の処理ではリストの中に指定した果物があるかを検索し，結果を表示します．第２の処理ではリストの中に指定した動物があるかを検索し，結果を表示します．これらの処理には共通する部分がありますよね．共通する処理を関数にしましょう．
 
 > ヒント：演習課題５と同じ様でやり方
 
-### チャレンジ課題 3： 関数の定義３
+### チャレンジ課題 4： 関数の定義３
 
 コードをさらに書き直し，リストに指定の文字がある場合，リストの何番目にあるかを表示させる処理してください．
 
 > ヒント：ループの前に新たに変数 `Cnt=0` を用意して，インクリメントを利用すれば，リストの番目がわかります．
 
 ---
-[< 前へ](../06_read_write) | [トップに戻る](https://github.com/FIPResearch/AL1_Introduction_to_Progamming/) | [次へ >](../08_prob_plot)
+[< 前へ](../07_read_write) | [トップに戻る](https://github.com/FIPResearch/AL1_Introduction_to_Progamming/) | [次へ >](../09_prob_plot)
