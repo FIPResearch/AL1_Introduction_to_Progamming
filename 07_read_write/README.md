@@ -141,7 +141,7 @@ drive.mount('/content/drive')
 ```
 
 保存した [`iris.csv`](iris.csv) を Colaboratory のワークスペースに置きます．(自身のPCにファイルを保存するにはブラウザの `右クリック → 名前をつけて保存` からできます．)  
-その後，コード [`07_read_write_csv.py`](06_read_write_csv.py)をColabに貼り付けて実行します．
+その後，コード [`07_read_write_csv.py`](07_read_write_csv.py)をColabに貼り付けて実行します．
 
 ##### Colaboratory のワークスペースへのデータの設置
 1. Colaboratory 画面左の 「フォルダアイコン」 をクリックする．
@@ -165,4 +165,4 @@ drive.mount('/content/drive')
 > ヒント： 繰り返し処理で学んだように， `if` 文を使って「variety」の列の値が `Setosa` の行のみを取り出します．
 
 --- 
-[< 前へ](../06_while) | [トップに戻る](https://github.com/FIPResearch/AL1_Introduction_to_Programming) | [次へ >](../07_module)
+[< 前へ](../06_while) | [トップに戻る](https://github.com/FIPResearch/AL1_Introduction_to_Programming) | [次へ >](../08_module)
