@@ -1,5 +1,5 @@
 # プログラミング入門 / Introduction to Programming
-` **2025年度**（version 2025.01） `
+` 2025年度（version 2025.01） `
 
 このページは，埼玉大学の講義「教養・スキル・リテラシー科目 プログラミング入門」で扱う教材です．
 [WebClass](https://webclass.gks.saitama-u.ac.jp/)のスライドの教材を確認しながら、こちらのGitHub資料を詳しく内容を説明しています。
