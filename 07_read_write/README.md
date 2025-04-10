@@ -129,9 +129,9 @@ extact_values = input_data[3:11,0:6]
 
 ---
 ## 練習問題
-### 練習問題 9： ファイルの読み込み
+### 練習問題 10： ファイルの読み込み
 
-コード [`06_read_write_csv.py`](06_read_write_csv.py) を実行しましょう．
+コード [`07_read_write_csv.py`](07_read_write_csv.py) を実行しましょう．
 
 実行前に，まずは以下のコードを実行し，Google ColabにGoogleDriveをマウントします．
 ```Python
@@ -141,7 +141,7 @@ drive.mount('/content/drive')
 ```
 
 保存した [`iris.csv`](iris.csv) を Colaboratory のワークスペースに置きます．(自身のPCにファイルを保存するにはブラウザの `右クリック → 名前をつけて保存` からできます．)  
-その後，コード [`06_read_write_csv.py`](06_read_write_csv.py)をColabに貼り付けて実行します．
+その後，コード [`07_read_write_csv.py`](06_read_write_csv.py)をColabに貼り付けて実行します．
 
 ##### Colaboratory のワークスペースへのデータの設置
 1. Colaboratory 画面左の 「フォルダアイコン」 をクリックする．
@@ -149,15 +149,15 @@ drive.mount('/content/drive')
 
 実行すると，データの中身を見ることができます．
 
-### 練習問題 10： 列の取り出し
+### 練習問題 11： 列の取り出し
 
-コード [`06_read_write_csv.py`](06_read_write_csv.py) を修正して，[`iris.csv`](https://raw.githubusercontent.com/FIPResearch/AL1_Introduction_to_Programming/main/06_read_write/iris.csv)) の「variety」に対応する列の値のみを表示させましょう．どのような種があるでしょうか？
+コード [`07_read_write_csv.py`](06_read_write_csv.py) を修正して，[`iris.csv`](https://raw.githubusercontent.com/FIPResearch/AL1_Introduction_to_Programming/main/07_read_write/iris.csv)) の「variety」に対応する列の値のみを表示させましょう．どのような種があるでしょうか？
 
 ---
 ## 演習課題
-### 演習課題 4： 特定の文字列に一致する行の取り出し
+### 演習課題 5： 特定の文字列に一致する行の取り出し
 
-まず、コード [`06_read_write_2Darray.py`](06_read_write_2Darray.py) は「variety」に対応する列以外の列の値を全て取り出し，新たな配列 `output_data` に入れています．実行して、確認しましょう．
+まず、コード [`07_read_write_2Darray.py`](07_read_write_2Darray.py) は「variety」に対応する列以外の列の値を全て取り出し，新たな配列 `output_data` に入れています．実行して、確認しましょう．
 
 このコードを修正し，`variety` が `Setosa` となる行の，がく片の長さと幅をすべて取り出しましょう.
 さらに，その取り出したデータを `output.csv` ファイルに保存しましょう．
@@ -165,4 +165,4 @@ drive.mount('/content/drive')
 > ヒント： 繰り返し処理で学んだように， `if` 文を使って「variety」の列の値が `Setosa` の行のみを取り出します．
 
 --- 
-[< 前へ](../05_for) | [トップに戻る](https://github.com/FIPResearch/AL1_Introduction_to_Programming) | [次へ >](../07_module)
+[< 前へ](../06_while) | [トップに戻る](https://github.com/FIPResearch/AL1_Introduction_to_Programming) | [次へ >](../07_module)
