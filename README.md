@@ -1,16 +1,10 @@
 # プログラミング入門 / Introduction to Programming
-` 2025年度（version 2025.01） `
+` 2026年度（version 2026.01） `
 
 このページは，埼玉大学の講義「教養・スキル・リテラシー科目 プログラミング入門」で扱う教材です．
 [WebClass](https://webclass.gks.saitama-u.ac.jp/)のスライドの教材を確認しながら、こちらのGitHub資料を詳しく内容を説明しています。
 
-本授業では、令和７年度から全学部生を対象としたリテラシーレベルの[「数理・データサイエンス・AIリテラシー教育プログラム」](https://www.saitama-u.ac.jp/datascience/)を対象授業として実施しています。
-
-- 第１ターム開講
-  [教養・スキル・リテラシー科目（プログラミング入門）: 25XZ500161](https://syllabus.risyu.saitama-u.ac.jp/syllabusHtml/2025/06/06_XZ500161_ja_JP.html)
-
-- 第２ターム開講
-  [教養・スキル・リテラシー科目（プログラミング入門）: 25XZ500162](https://syllabus.risyu.saitama-u.ac.jp/syllabusHtml/2025/06/06_XZ500162_ja_JP.html)
+> 本授業では、令和７年度から全学部生を対象としたリテラシーレベルの[「数理・データサイエンス・AIリテラシー教育プログラム」](https://www.saitama-u.ac.jp/datascience/)を対象授業として実施しています。
 
 ### 本講義の目的
 
