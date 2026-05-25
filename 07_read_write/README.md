@@ -151,7 +151,7 @@ drive.mount('/content/drive')
 
 ### 練習問題 11： 列の取り出し
 
-コード [`07_read_write_csv.py`](07_read_write/07_read_write_csv.py) を修正して，[`iris.csv`](https://raw.githubusercontent.com/FIPResearch/AL1_Introduction_to_Programming/main/07_read_write/iris.csv)) の「variety」に対応する列の値のみを表示させましょう．どのような種があるでしょうか？
+コード [`07_read_write_csv.py`](07_read_write_csv.py) を修正して，[`iris.csv`](https://raw.githubusercontent.com/FIPResearch/AL1_Introduction_to_Programming/main/07_read_write/iris.csv)) の「variety」に対応する列の値のみを表示させましょう．どのような種があるでしょうか？
 
 ---
 ## 演習課題
